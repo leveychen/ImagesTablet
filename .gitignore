@@ -6,6 +6,7 @@ build/
 .gradle/
 */build/
 */release/
+app/release/
 
 # IDEA
 *.iml
